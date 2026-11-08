@@ -14,7 +14,7 @@
 | 프로젝트 | 유형 | 출처 | 내용 |
 | --- | --- | --- | --- |
 | [android-kotlin-build](android/books/android-kotlin-build) | 도서 | How to Build Android Apps with Kotlin | Activity, Fragment, Navigation, RecyclerView, Compose, DI(Dagger, Hilt, Koin), Room, DataStore, 테스트 등 30개 프로젝트 |
-| [android-kotlin-guide](android/books/android-kotlin-guide) | 도서 | 안드로이드 with Kotlin 앱 프로그래밍 가이드 | 익명 SNS, 로또 번호 생성기, 펀치 파워 측정, 퀴즈 잠금화면, 서울시 공중화장실 지도 |
+| [android-kotlin-guide](android/books/android-kotlin-guide) | 도서 | 안드로이드 with Kotlin 앱 프로그래밍 가이드 | 익명 SNS, 로또 번호 생성기, 펀치 파워 측정, 퀴즈 잠금화면, 서울시 화장실 찾기 |
 | [instagram-copy](android/courses/inflearn/instagram-copy) | 강의 | 인프런 - 하울의 안드로이드 인스타그램 클론 만들기 | 로그인, 사진 업로드, 피드, 댓글, 팔로우, 알림 및 FCM 푸시 |
 | [personalities](android/courses/inflearn/personalities) | 강의 | 인프런 - 코틀린 3강으로 끝내기 feat. 안드로이드 개발 | Fragment 기반 연애 성향 테스트 앱 |
 | [android14-kotlin-complete](android/courses/udemy/android14-kotlin-complete) | 강의 | Udemy - Android 14 및 Kotlin 개발 완전 정복하기 | 계산기, 퀴즈, 날씨, 그림판 등 XML 및 Jetpack Compose 기반 15개 앱 |
